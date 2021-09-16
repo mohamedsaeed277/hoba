@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoba/static/css/main.6bf08d38.chunk.css",
+    "main.js": "/hoba/static/js/main.d3b3b6d0.chunk.js",
+    "main.js.map": "/hoba/static/js/main.d3b3b6d0.chunk.js.map",
+    "runtime-main.js": "/hoba/static/js/runtime-main.d04bc49b.js",
+    "runtime-main.js.map": "/hoba/static/js/runtime-main.d04bc49b.js.map",
+    "static/js/2.d9f898cf.chunk.js": "/hoba/static/js/2.d9f898cf.chunk.js",
+    "static/js/2.d9f898cf.chunk.js.map": "/hoba/static/js/2.d9f898cf.chunk.js.map",
+    "index.html": "/hoba/index.html",
+    "static/css/main.6bf08d38.chunk.css.map": "/hoba/static/css/main.6bf08d38.chunk.css.map",
+    "static/js/2.d9f898cf.chunk.js.LICENSE.txt": "/hoba/static/js/2.d9f898cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04bc49b.js",
+    "static/js/2.d9f898cf.chunk.js",
+    "static/css/main.6bf08d38.chunk.css",
+    "static/js/main.d3b3b6d0.chunk.js"
+  ]
+}
