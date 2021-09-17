@@ -7,9 +7,8 @@ import Type from "./pages/Type";
 function App() {
   return (
     <Router>
-      <main>
-        <switch>
-          <Route path='/' exact>
+        <Switch>
+          <Route exact path='/'>
             <Home />
           </Route>
           <Route path='/Marka'>
@@ -21,8 +20,7 @@ function App() {
           <Route path='/Type'>
             <Type />
           </Route>
-        </switch>
-      </main>
+        </Switch>
     </Router>
   );
 }
